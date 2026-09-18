@@ -1,0 +1,10 @@
+{
+  "name": "Zygard - AI Exam & Study Assistant",
+  "description": "AI study bot for students to summarize notes, master active recall flashcards, tackle mock exam questions, and study efficiently.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
